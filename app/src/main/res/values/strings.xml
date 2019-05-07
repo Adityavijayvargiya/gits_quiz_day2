@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Ques1">Where is Gateway Of India situated?</string>
+    <string name="op1">A. Delhi</string>
+    <string name="op2">B. Mumbai</string>
+    <string name="op3">C. Kolkata</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="Ques2">What is the boiling point of water?</string>
+    <string name="op21">A. 100 C</string>
+    <string name="op22">B. 150 C</string>
+    <string name="op23">C. 0 C</string>
+
+</resources>
